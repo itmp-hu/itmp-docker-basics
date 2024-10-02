@@ -3,6 +3,10 @@
 
 **2024. június 8., szombat**
 
+Az ősz beköszöntével egy régóta várt, nagyon izgalmas képzéssel jelentkezünk. Október 12-én, szombaton, az ITMP Klub keretében egy egynapos, Docker alapok képzést szervezünk, amelyen természetesen ingyenesen vehetnek részt klubtagjaink.
+Talán eddig azt gondoltad, hogy a Docker csak a kigyúrt profik eszköze, ezért soha nem is próbálkoztál vele. Itt az idő, hogy leszámoljunk ezzel a kishitűséggel, és számodra is bebizonyítsuk, hogy a konténerek a Te mindennapjaidat is megkönnyítő természetes eszközzé válhatnak. Ebben vezető mentorként Hidvégi János, a Gdanskban Európa-bajnoki aranyérmet nyert egykori webfejlesztő versenyzőnk lesz a segítségünkre, aki ma már igazi feketeöves devopsosnak számít.
+A konténerezés ma már elengedhetetlen eszköze a szoftverfejlesztésnek, és a Docker ebben úttörő szerepet tölt be. Az oktatás során lehetőséged lesz megismerni a Docker alapjait, megtanulni, hogyan lehet konténereket létrehozni, és megtapasztalni, milyen módon egyszerűsítheti a szoftverfejlesztést.
+
 Az ismertetők és élő bemutatókon túl – ahogy azt már az ITMP-kurzusokon megszokhattátok – a gyakorlatban is kipróbálhatjátok a frissen megszerzett tudást. Ebben felkészült és lelkes mentoraink lesznek a segítségetekre.
 
 A továbbképzés időpontja: 2024. október 12. (szombat) 9:00-15:00
