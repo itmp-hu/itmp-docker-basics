@@ -18,7 +18,7 @@ Az ismertetők és élő bemutatókon túl – ahogy azt már az ITMP-kurzusokon
 | Időpont       | Téma                                                                      |
 |---------------|---------------------------------------------------------------------------|
 | **09:00 - 09:15**   | Köszöntő, technikai információk                                          |
-| **09:15 - 11:00**   | 1. modul - Docker Desktop telepítése, alkalmazások futtatása Dockerben |
+| **09:15 - 11:00**   | 1. modul - Docker Desktop telepítése, konténerek kezelése Docker környezetben |
 | 09:00 - 09:45   | 1. modul elméleti áttekintés és demó - Hidvégi János |
 | 09:45 - 10:45   | 1. modul workshop -kiscsoportos, mentorált gyakorlat |
 | **10:45 - 11:00**   | Kávészünet                                                                |
