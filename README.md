@@ -23,14 +23,13 @@ Az ismertetők és élő bemutatókon túl – ahogy azt már az ITMP-kurzusokon
 | 09:45 - 10:45   | 1. modul workshop -kiscsoportos, mentorált gyakorlat |
 | **10:45 - 11:00**   | Kávészünet                                                                |
 | **11:00 - 13:30**   | 2. modul - Alkalmazások dockerizálása, saját docker image készítése |
-| 11:00-11:30   | 2. modul elméleti áttekintés és demó - Hidvégi János |
-| 11:30-12:30   | 2. modul workshop -kiscsoportos, mentorált gyakorlat |
-| **12:30-13:30**   | Ebédszünet                                                                |
+| 11:00 - 11:30   | 2. modul elméleti áttekintés és demó - Hidvégi János |
+| 11:30 - 12:30   | 2. modul workshop -kiscsoportos, mentorált gyakorlat |
+| **12:30 - 13:30**   | Ebédszünet                                                                |
 | **13:30 - 14:45**   | 3. modul - A Docker Compose használata |
-| 13:30-14:00   | 3. modul elméleti áttekintés és demó - Hidvégi János |
-| 14:00-14:45   | 3. modul workshop -kiscsoportos, mentorált gyakorlat |
-| **14:45-15:00**   | Kérdések és válaszok, napzárás                                            |
-
+| 13:30 - 14:00   | 3. modul elméleti áttekintés és demó - Hidvégi János |
+| 14:00 - 14:45   | 3. modul workshop -kiscsoportos, mentorált gyakorlat |
+| **14:45 - 15:00**   | Kérdések és válaszok, napzárás                                            |
 
 ## Docker konténerek kezelése
 
