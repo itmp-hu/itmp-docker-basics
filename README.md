@@ -9,22 +9,25 @@ A konténerezés ma már elengedhetetlen eszköze a szoftverfejlesztésnek, és 
 
 Az ismertetők és élő bemutatókon túl – ahogy azt már az ITMP-kurzusokon megszokhattátok – a gyakorlatban is kipróbálhatjátok a frissen megszerzett tudást. Ebben felkészült és lelkes mentoraink lesznek a segítségetekre.
 
-A továbbképzés időpontja: 2024. október 12. (szombat) 9:00-15:00
+**A továbbképzés időpontja:** 2024. október 12. (szombat) 9:00-15:00
 
-A továbbképzés formája: online (Microsoft Teams meeting)
+**A továbbképzés formája:** online (Microsoft Teams meeting)
 
-## A képzés tervezett tematikája és ütemezése:
+**A képzés tervezett tematikája és ütemezése:**
 
-- **09:00-09:15** Köszöntő, technikai információk
-- **09:00-09:45** Docker Desktop telepítése, alkalmazások futtatása Dockerben (Hidvégi János)
-- **09:45-10:45** Docker Desktop telepítése, alkalmazások futtatása Dockerben (kiscsoportos, mentorált gyakorlat)
-- **10:45-11:00** Kávészünet
-- **11:00-11:30** Alkalmazások dockerizálása, saját docker image készítése (Hidvégi János)
-- **11:30-12:30** Alkalmazások dockerizálása, saját docker image készítése (kiscsoportos, mentorált gyakorlat)
-- **12:30-13:30** Ebédszünet
-- **13:30-14:00** A Docker Compose használata (Hidvégi János)
-- **14:00-14:45** A Docker Compose használata (kiscsoportos, mentorált gyakorlat)
-- **14:45-15:00** Kérdések és válaszok, napzárás
+| Időpont       | Téma                                                                      |
+|---------------|---------------------------------------------------------------------------|
+| 09:00-09:15   | Köszöntő, technikai információk                                           |
+| 09:00-09:45   | Docker Desktop telepítése, alkalmazások futtatása Dockerben (Hidvégi János) |
+| 09:45-10:45   | Docker Desktop telepítése, alkalmazások futtatása Dockerben (kiscsoportos, mentorált gyakorlat) |
+| 10:45-11:00   | Kávészünet                                                                |
+| 11:00-11:30   | Alkalmazások dockerizálása, saját docker image készítése (Hidvégi János)  |
+| 11:30-12:30   | Alkalmazások dockerizálása, saját docker image készítése (kiscsoportos, mentorált gyakorlat) |
+| 12:30-13:30   | Ebédszünet                                                                |
+| 13:30-14:00   | A Docker Compose használata (Hidvégi János)                               |
+| 14:00-14:45   | A Docker Compose használata (kiscsoportos, mentorált gyakorlat)           |
+| 14:45-15:00   | Kérdések és válaszok, napzárás                                            |
+
 
 ## Docker konténerek kezelése
 
