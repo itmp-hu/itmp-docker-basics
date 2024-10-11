@@ -54,3 +54,10 @@ Az előző gyakorlat során megismert parancsok segítségével ellenőrizd, hog
 - Regisztrálj a [https://hub.docker.com/](https://hub.docker.com/) oldalon.
 - Lépj be a felhasználóneved és jelszavad segítségével a `docker login` paranccsal.
 - Használd a `docker push my-app` parancsot az image megosztására.
+
+**7. Nginx image készítése (opcionális)**
+- Készíts egy saját image-et a `nginx:latest` base image felhasználásával
+- Készíts egy `index.html` fájlt
+- Másold fel a fájlt a `/usr/share/nginx/html` helyre
+- Nevezd el az image-et `nginx-custom` néven
+- Futtass egy konténert az új image felhasználásával
