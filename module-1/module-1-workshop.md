@@ -47,3 +47,17 @@
       docker rm <container_id>
       ```
     - A `docker stop` parancs leállítja a futó konténert, a `docker rm` pedig eltávolítja azt a rendszerből.
+
+6. **Konténer futtatása volume-mal**:
+   - Hozz létre egy index.html fájlt a következő tartalommal index.html néven
+      ```
+        <html>
+        <head><title>My Docker Page</title></head>
+        <body><h1>Hello from Docker!</h1></body>
+        </html>
+      ```
+    - Csatold fel a létrehozott fájlt az `/usr/share/nginx/html` mappa alá
+    - Parancs:
+      ```
+      docker run -d -p 8080:80 -v /path/to/local/directory:/usr/share/nginx/html nginx
+      ```
