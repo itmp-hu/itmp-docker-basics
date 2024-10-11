@@ -12,11 +12,11 @@
 - (Opcionális) Docker image megosztása Docker Hubon
 
 **1. Alkalmazás repo klónozása**
-Klónozd vagy tölts le a példaalkalmazást GitHubról: [https://github.com/docker/getting-started-app/tree/main](https://github.com/docker/getting-started-app/tree/main)
+Klónozd vagy tölts le a példaalkalmazást GitHubról: [https://github.com/docker/getting-started-app/](https://github.com/docker/getting-started-app/)
 
 **Parancs:**
 ```bash
-git clone https://github.com/docker/getting-started-app/tree/main example-app
+git clone https://github.com/docker/getting-started-app/ example-app
 ```
 
 **2. Dockerfile Létrehozása**
